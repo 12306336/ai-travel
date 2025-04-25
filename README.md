@@ -1,2 +1,1 @@
-# ai-travel
-ai flight
+# AI Flight Tracker
